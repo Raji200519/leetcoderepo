@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Raji200519/leetcoderepo/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Raji200519/leetcoderepo/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Raji200519/leetcoderepo/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
