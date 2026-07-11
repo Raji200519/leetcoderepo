@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Raji200519/leetcoderepo/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raji200519/leetcoderepo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raji200519/leetcoderepo/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Raji200519/leetcoderepo/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/Raji200519/leetcoderepo/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Raji200519/leetcoderepo/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Raji200519/leetcoderepo/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
