@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raji200519/leetcoderepo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raji200519/leetcoderepo/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Raji200519/leetcoderepo/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Raji200519/leetcoderepo/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raji200519/leetcoderepo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Raji200519/leetcoderepo/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raji200519/leetcoderepo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raji200519/leetcoderepo/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Raji200519/leetcoderepo/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raji200519/leetcoderepo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Raji200519/leetcoderepo/tree/master/0283-move-zeroes) |
 ## String
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raji200519/leetcoderepo/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Raji200519/leetcoderepo/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
